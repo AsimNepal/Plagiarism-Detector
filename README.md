@@ -44,7 +44,7 @@ $ Plagiarism-checker-Python-> python3 app.py
 
 ## Explore it 
 
-Explore it and twist it to your own use case. In case of any questions feel free to reach me directly at "asim.npal@gmail.com / tmsina.sandhya@gmail.com".
+Explore it and twist it to your own use case. In case of any questions feel free to reach me directly at "asim.npal@gmail.com.
 
 ## Issues
 
